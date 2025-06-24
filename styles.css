@@ -1,0 +1,15 @@
+h1 a {
+  color: red;}
+
+  p {
+  	font: 18px 'Tahoma';
+    cursor: pointer;
+  }
+
+.rot{color: blue;}
+.por{color: purple;}
+.or{color: green;}
+
+body {
+  background-color: lightblue;
+}
